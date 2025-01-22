@@ -1,0 +1,41 @@
+1. STM32 Bule Bill
+2. LCD 16x02 with HD44780
+3. Tụ gốm 0.1uF (104)
+4. Tụ gốm xanh 100pF (101)
+5. Điện trở 10k (chưa mua)
+6. Nút nhấn B3F-4005 b12x12mm (chưa mua)
+7. Cầu diode KBP307
+8. Tụ hóa 1000uF (50V)
+9. Điện trở 5.6k/2W
+10. Tụ hóa 1uF (50V)
+11. LM7812
+12. LM7912
+13. Cuộn cảm 1mH (0.85A, 1/2W)
+14. LM7805
+15. LM1117T
+16. Module Relay 5VDC
+17. MSS-22D18 Công Tắc Trượt 6 Chân Xuyên Lỗ ON-ON 2P2T 0.5A
+18. Điện trở 30k 
+19. Điện trở 22k
+20. Điện trở 10k (chưa mua)
+21. TL082
+22. Biến Trở 10 KOhm RM065-103 Nút Áo Chỉnh Top 0.1W
+23. Tụ hóa 10uF (chưa mua)
+24. 1N4728 zener 3.3V
+25. Điện trở 68k (chưa mua)
+26. Điện trở 100 
+27. OP07
+28. 1N4148
+29. LM393
+30. 1N4722
+31. Tụ gốm/tantalum 1uF (chưa mua)
+======================================================================
+Ngoài lề
+32. Công tắc On-Off 
+33. Tấm đồng 15x25cm
+34. Bọt biển
+35. Mũi khoan
+36. Tản nhiệt
+37. Đầu Coss
+38. Trụ đồng
+39. Biến áp 12V 2A đối xứng

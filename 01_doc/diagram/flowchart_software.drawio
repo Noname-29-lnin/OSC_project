@@ -1,0 +1,129 @@
+<mxfile host="65bd71144e">
+    <diagram id="LYBY4Ak1muZDrTp-IPn7" name="Page-1">
+        <mxGraphModel dx="1113" dy="787" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1600" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" style="edgeStyle=none;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="2" target="8">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="220" y="440" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: initial;&quot;&gt;Chức năng chính của hệ thống&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#60a917;fontColor=#050505;strokeColor=#2D7600;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="370" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3" target="10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="3" target="11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Setup hệ thống&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#1ba1e2;fontColor=#050505;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="5" target="20">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="5" target="21">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;chức năng đo lường&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#1ba1e2;fontColor=#050505;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="370" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="8" target="23">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="47" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="8" target="24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;chức năng hiển thị&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=left;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#1ba1e2;fontColor=#050505;strokeColor=#006EAF;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="610" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&lt;font color=&quot;#0a0a0a&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Setup hệ thống&lt;/font&gt;&lt;br&gt;(ADC_init, UART_init, LCD_init, TIMER_init, EXIT_init)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="70" width="160" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="10" target="15">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="10" target="19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="37" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="10" target="18">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;font color=&quot;#0a0a0a&quot; style=&quot;font-size: 15px;&quot;&gt;Chọn mode&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="160" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&lt;font color=&quot;#0a0a0a&quot;&gt;Chế độ START/STOP hệ thống&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="240" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="&lt;font color=&quot;#121212&quot;&gt;DC&lt;br&gt;đo điện áp DC&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+                    <mxGeometry x="750" y="160" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="AC&lt;br&gt;đo điện áp AC" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffcccc;strokeColor=#36393d;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="750" y="90" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Chọn Range&lt;br&gt;(X1, X8)" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffcccc;strokeColor=#36393d;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="750" y="230" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;font color=&quot;#0a0a0a&quot;&gt;Đo AC&lt;br&gt;0-8 Vrms&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="330" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="&lt;font color=&quot;#0d0d0d&quot;&gt;Đo DC&lt;br&gt;0-24VDc&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="410" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="43" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="23" target="31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="&lt;font color=&quot;#030303&quot;&gt;Hiển thị trên laptop&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="520" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="44" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="24" target="25">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="45" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="24" target="26">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;font color=&quot;#080808&quot;&gt;Hiển thị trên LCD 16x2&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#cdeb8b;strokeColor=#36393d;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="690" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="25" target="27">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="DC" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffcccc;strokeColor=#36393d;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="750" y="630" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="26" target="28">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.017;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=15;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="26" target="29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="AC" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffcccc;strokeColor=#36393d;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="750" y="760" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="Hiển thị giá trị Vdc(Điện áp DC)" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="630" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" value="Hiển thị giá trị Vpp (Volt đỉnh đỉnh)" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="720" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="Hiển thị giá trị FREQ (tần số)" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="800" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="Hiển thị điện áp trên đồ thị" style="whiteSpace=wrap;html=1;fontSize=15;rounded=1;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffcccc;strokeColor=#36393d;fontColor=#050505;" vertex="1" parent="1">
+                    <mxGeometry x="750" y="520" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

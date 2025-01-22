@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "OSC_LIB")(type "KiCad")(uri "C:/Document_forme/project_tiny/opsilliscope/MainProject_oscilloscope/oscilloscope_kicad/OSC_PCB/OSC_LIB")(options "")(descr ""))
+)

@@ -1,0 +1,119 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage[utf8]{vietnam}
+\usepackage[margin=1.5cm]{geometry}
+\usepackage[pages=some]{background}
+\usepackage{amssymb, amsfonts, amsmath}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{fancyhdr}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{multicol}
+\usepackage{multirow}
+\usepackage{nameref}
+\usepackage{hyperref}
+\usepackage{enumerate}
+\usepackage{enumitem}
+\usepackage{indentfirst}
+\usepackage{sectsty}
+\usepackage{setspace}
+\usepackage{listings}
+\usepackage{xcolor}
+
+\lstset{
+	language=C,
+	basicstyle=\ttfamily\small,
+	keywordstyle=\color{blue}\bfseries,
+	commentstyle=\color{green!40!black},
+	stringstyle=\color{orange},
+	numbers=left,
+	numberstyle=\tiny\color{gray},
+	stepnumber=1,
+	numbersep=10pt,
+	backgroundcolor=\color{white},
+	showspaces=false,
+	showstringspaces=false,
+	showtabs=false,
+	frame=single,
+	framesep=5pt,
+	tabsize=2,
+	captionpos=b,
+	breaklines=true,
+	breakatwhitespace=false,
+	escapeinside={(*@}{@*)},
+	morekeywords={uint32\_t, uint16\_t, float}  % Thêm từ khóa nếu cần
+}
+
+
+\pagestyle{fancy}
+\fancyhead[L]{GVHD: Nguyễn Trung Hiếu}
+\setlength{\parindent}{1cm}
+\setcounter{page}{-1}
+\sectionfont{\fontsize{16}{20}\selectfont}
+\subsectionfont{\fontsize{14}{16}\selectfont}
+\onehalfspacing
+
+\backgroundsetup{
+	scale=1,
+	color=black, 
+	opacity=0.4,
+	angle=0,
+	contents={
+		\includegraphics[width=\paperwidth, height=\paperheight]{picture/bia.jpg}
+	}
+}
+
+\begin{document}
+		\BgThispage
+	\thispagestyle{empty}
+	\begin{center}
+		\Large\textbf{ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH \\ TRƯỜNG ĐẠI HỌC BÁCH KHOA\\--oo0oo--}
+	\end{center}
+	\vspace{0.5cm}
+	\begin{center}
+		\includegraphics[width=0.5\linewidth]{picture/bk.png}
+	\end{center}
+	\vspace{0.5cm}
+	\begin{center}
+		\LARGE\textbf{BÁO CÁO BÀI TẬP LỚN \\ MÔN HỌC: THIẾT KẾ HỆ THỐNG NHÚNG (EE3003)}
+	\end{center}
+	\vspace{1cm}
+	
+	\LARGE
+	
+	\hspace{7cm}\textit{{GVHD:} Nguyễn Trung Hiếu}
+	
+	\begin{center}
+		Danh sách thành viên nhóm (14)
+		
+		\begin{tabular}{|c|p{0.5\linewidth}|p{0.2\linewidth}|}
+			\hline
+			STT & Họ và tên & MSSV\\
+			\hline
+			1 & Nguyễn Đại Đồng & 2210780\\
+			\hline
+			2 & Phạm Dũng Hoàng Anh & 2210122\\
+			\hline
+			3 & Nguyễn Tuấn Viên & 2213934\\
+			\hline
+		\end{tabular}
+	\end{center}
+	
+	\vspace{3cm}
+	\begin{center}
+		\fontsize{8pt}{5pt}\selectfont\textbf{Tp.HCM, \dots/\dots/20\dots}
+	\end{center}
+	
+	\newpage
+	\thispagestyle{empty}
+	\fontsize{13}{14}\selectfont
+	\tableofcontents
+	\listoftables
+	\listoffigures
+	
+	\include{section/intruduction_OSC.tex}
+	\include{section/design_strategy.tex}
+	\include{section/working_principle.tex}
+	\include{section/thucthimach.tex}
+
+\end{document}
